@@ -14,4 +14,3 @@
 7. Standardized data.<br>
 8. Building model.<br>
 9. Plot model predict.<br>
-
