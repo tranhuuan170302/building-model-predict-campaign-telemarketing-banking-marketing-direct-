@@ -14,3 +14,5 @@ Information dataset: https://www.kaggle.com/datasets/henriqueyamahata/bank-marke
 7. Standardized data.<br>
 8. Building model.<br>
 9. Plot model predict.<br>
+## Visualization data<br>
+![plot](https://github.com/tranhuuan170302/building-model-predict-campaign-telemarketing-banking-marketing-direct-/blob/main/dashboard.PNG)
